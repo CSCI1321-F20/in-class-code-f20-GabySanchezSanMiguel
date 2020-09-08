@@ -1,0 +1,22 @@
+3
+Dorm Room
+A circular room with your bed and the beds of your 4 roommates. 
+2
+Book of Ancient History
+A book on the history of some of the earliest civilizations. 
+A wand
+A wooden wand that can be used to cast spells. 
+-1, -1, 1, -1, -1, -1
+Hallway
+This hallway connects all of the dorm rooms to the common lounge.
+1
+Someone's Homework
+This looks like english homework. Their owner probably dropped it. 
+-1, -1, 1, 1, -1, -1
+Common Lounge
+2
+A chocolate bar
+A delicious milky chocolate bar that was left on a study table. 
+Pencil
+A writing utensil that could come in handy for doing assignments.
+-1, -1, -1, 1, -1, -1
